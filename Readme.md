@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 🤗
 
-## About Me
+## About Me 📝
 
-Hello! I'm Irfan Wani, a passionate developer with over a year of professional experience as a mobile application developer and more than 4 years of programming experience. I love building impactful applications and continuously learning new technologies.
+Hello! I'm Irfan Wani 👋, a passionate developer with over a year of professional experience as a mobile application developer and more than 4 years of programming experience. I love building impactful applications and continuously learning new technologies.
 
 <!-- ## Experience -->
 
@@ -32,7 +32,7 @@ Description of the project. Include any important details like technologies used
 
 Description of the project. Include any important details like technologies used, features, and links to the project if applicable. -->
 
-## Get in Touch
+## Get in Touch 📬
 
 Feel free to reach out to me through any of the following platforms:
 
@@ -42,7 +42,7 @@ Feel free to reach out to me through any of the following platforms:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanwani347@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irfanwani.vercel.app)
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanwani&show_icons=true&theme=radical)
 
@@ -52,8 +52,7 @@ Feel free to reach out to me through any of the following platforms:
 - [Blog Post Title](https://yourblog.com/post-url)
 - [Blog Post Title](https://yourblog.com/post-url) -->
 
-## Contributions
-
+## Contributions 🌟
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanwani&theme=radical)](https://git.io/streak-stats)
 
-Thank you for visiting my GitHub profile! Let's connect and collaborate on exciting projects.
+Thank you for visiting my GitHub profile! Let's connect and collaborate 🤝 on exciting projects.
