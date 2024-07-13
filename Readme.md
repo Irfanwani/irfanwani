@@ -55,4 +55,6 @@ Feel free to reach out to me through any of the following platforms:
 ## Contributions 🌟
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanwani&theme=radical)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/Irfanwani?theme=dark&font=baloo&extension=null)
+
 Thank you for visiting my GitHub profile! Let's connect and collaborate 🤝 on exciting projects.
