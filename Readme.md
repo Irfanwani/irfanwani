@@ -53,7 +53,10 @@ Feel free to reach out to me through any of the following platforms:
 - [Blog Post Title](https://yourblog.com/post-url) -->
 
 ## Contributions 🌟
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanwani&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanwani&theme=radical)
+
+
+![Irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfanwani&theme=react-dark)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Irfanwani?theme=dark&font=baloo&extension=null)
 
