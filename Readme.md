@@ -2,7 +2,7 @@
 
 ## About Me 📝
 
-Hello! I'm Irfan Wani 👋, a passionate developer with over a year of professional experience as a mobile application developer and more than 4 years of programming experience. I love building impactful applications and continuously learning new technologies.
+Hello! I'm Irfan Wani 👋. I love building things and continuously learning new technologies.
 
 <!-- ## Experience -->
 
