@@ -87,9 +87,9 @@ open_to: Collaborations & exciting projects
 ### 🐍 Watch My Snake Devour Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irfanwani/Irfanwani/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irfanwani/Irfanwani/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Irfanwani/Irfanwani/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irfanwani/Irfanwani/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irfanwani/Irfanwani/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Irfanwani/Irfanwani/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
 
 <br/>
