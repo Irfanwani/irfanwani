@@ -42,10 +42,6 @@ Feel free to reach out to me through any of the following platforms:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanwani347@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irfanwani.vercel.app)
 
-## GitHub Stats 📊
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanwani&show_icons=true&theme=radical)
-
 <!-- ## Latest Blog Posts
 
 - [Blog Post Title](https://yourblog.com/post-url)
@@ -53,11 +49,9 @@ Feel free to reach out to me through any of the following platforms:
 - [Blog Post Title](https://yourblog.com/post-url) -->
 
 ## Contributions 🌟
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanwani&theme=radical)
 
 
 ![Irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfanwani&theme=react-dark)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Irfanwani?theme=dark&font=baloo&extension=null)
 
 Thank you for visiting my GitHub profile! Let's connect and collaborate 🤝 on exciting projects.
