@@ -1,0 +1,16 @@
+<svg width="1600" height="120" viewBox="0 0 1600 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="footFlow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00D9FF"/>
+      <stop offset="0.5" stop-color="#00D4AA"/>
+      <stop offset="1" stop-color="#7C6FFF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1600 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footFlow)" d="M0,64 C266,104 533,24 800,58 C1066,92 1333,34 1600,64 L1600,120 L0,120 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,64 C266,104 533,24 800,58 C1066,92 1333,34 1600,64 L1600,120 L0,120 Z;
+              M0,44 C266,14 533,98 800,52 C1066,16 1333,96 1600,46 L1600,120 L0,120 Z;
+              M0,64 C266,104 533,24 800,58 C1066,92 1333,34 1600,64 L1600,120 L0,120 Z"/>
+  </path>
+</svg>
