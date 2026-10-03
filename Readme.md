@@ -29,7 +29,7 @@
 
 ```yaml
 name: Irfan Wani
-role: Senior SDE & Integration Manager
+role: Senior Software Engineer and Integrations Manager
 current_focus:
   - AI Agent Engineering & Harnesses 🤖
   - Mobile Apps (React Native) 📱
@@ -41,8 +41,8 @@ open_to: Collaborations & exciting projects
 
 <br clear="right"/>
 
-- 🔭 **Lead Mission & ADCS** at FreJun, a voice infrastructure platform
-- 🚀 **5+ apps live on the Google Play Store** as *Appshop Co.* · Snap Tag (4.8★), Space Blaster, Barbershop, TicTacToe
+- 🔭 **Senior Software Engineer and Integrations Manager** at FreJun, a voice infrastructure platform
+- 🚀 **5+ apps live on the Google Play Store** as *Appshop Co.*
 - 🤖 **Top contributor to [Sidekick](https://github.com/Faisal-Fayaz/sidekick)** — a local-first terminal AI agent on PyPI (319 commits)
 - 💬 Ask me about **React Native, Django/DRF, FastAPI, agent harnesses, API Integrations**
 - ⚡ Fun fact: **I turn ☕ into `<code/>`**
@@ -58,7 +58,7 @@ open_to: Collaborations & exciting projects
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,fastapi,django,react,redux,threejs,graphql,postgres,mongodb,aws,docker,git,github,postman,ollama,swift,kotlin&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,fastapi,django,react,redux,threejs,graphql,postgres,mongodb,aws,docker,git,github,postman,ai,swift,kotlin&theme=dark" alt="Tech stack" />
 </a>
 
 **Also working with:** DRF • SQL • SQLite3 • SIP/VoIP • ECS • Webhooks • Agent harnesses • LLM tooling
