@@ -103,7 +103,7 @@ open_to: Collaborations & exciting projects
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanwani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&area_color=1A2332" alt="Activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfanwani&theme=tokyonight&hide_border=true" alt="Contribution activity and GitHub overview" />
 
 </div>
 
