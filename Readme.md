@@ -9,9 +9,9 @@
 </a>
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-wani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanwani)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irfanwani347)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/irfan___wani)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Irfan__wani)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanwani347@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfanwani.dev)
 
@@ -31,9 +31,9 @@
 name: Irfan Wani
 role: Senior SDE & Integration Manager
 current_focus:
-  - Scalable Systems & Integrations 🔗
+  - AI Agent Engineering & Harnesses 🤖
   - Mobile Apps (React Native) 📱
-  - APIs, Webhooks & SDKs ⚡
+  - Integrations: APIs, Webhooks & SDKs 🔗
 learning: New tech every single day
 fun_fact: "Debugging is my cardio 🏃"
 open_to: Collaborations & exciting projects
@@ -41,9 +41,10 @@ open_to: Collaborations & exciting projects
 
 <br clear="right"/>
 
-- 🔭 Currently **leading the integration team** & building mobile experiences
-- 🌱 Always exploring **new technologies & frameworks**
-- 💬 Ask me about **React Native, Django/DRF, FastAPI, API Integrations**
+- 🔭 **Lead Mission & ADCS** at FreJun, a voice infrastructure platform
+- 🚀 **5+ apps live on the Google Play Store** as *Appshop Co.* · Snap Tag (4.8★), Space Blaster, Barbershop, TicTacToe
+- 🤖 **Top contributor to [Sidekick](https://github.com/Faisal-Fayaz/sidekick)** — a local-first terminal AI agent on PyPI (319 commits)
+- 💬 Ask me about **React Native, Django/DRF, FastAPI, agent harnesses, API Integrations**
 - ⚡ Fun fact: **I turn ☕ into `<code/>`**
 
 <br/>
@@ -57,10 +58,10 @@ open_to: Collaborations & exciting projects
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,fastapi,django,react,redux,threejs,graphql,postgres,mongodb,aws,docker,git,github,postman&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,fastapi,django,react,redux,threejs,graphql,postgres,mongodb,aws,docker,git,github,postman,ollama,swift,kotlin&theme=dark" alt="Tech stack" />
 </a>
 
-**Also working with:** DRF • SQL • SQLite3 • SIP/VoIP • ECS • REST APIs • Webhooks • Automations
+**Also working with:** DRF • SQL • SQLite3 • SIP/VoIP • ECS • Webhooks • Agent harnesses • LLM tooling
 
 </div>
 
