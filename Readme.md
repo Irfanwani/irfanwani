@@ -4,7 +4,7 @@
 <img src="assets/header.svg" width="100%" alt="Irfan Wani - SDE & Integration Manager" />
 
 <!-- ═══════════════ TYPING EFFECT ═══════════════ -->
-<a href="https://irfanwani.vercel.app">
+<a href="https://irfanwani.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@600&size=24&pause=1000&color=7C6FFF&center=true&vCenter=true&random=false&width=650&height=70&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Irfan!;%F0%9F%92%BB+Software+Development+Engineer;%F0%9F%94%97+Integration+Manager;%F0%9F%93%B1+Mobile+Developer;%E2%9C%A8+Engineering+Reality" alt="Typing SVG" />
 </a>
 
@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irfanwani347)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/irfan___wani)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanwani347@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfanwani.vercel.app)
+[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfanwani.dev)
 
 <img src="https://komarev.com/ghpvc/?username=irfanwani&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile views" />
 
